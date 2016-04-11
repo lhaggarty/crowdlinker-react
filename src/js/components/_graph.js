@@ -10,9 +10,3 @@
 </div>
 
 <div class="special-value" id="specialValue">Hello</div>
-
-<script>
-
-
-
-</script>
