@@ -18,3 +18,5 @@
     <button class="btn btn-success">Buy now for ‎€23</button>
   </div>
 </div>
+
+<hr>
